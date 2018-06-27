@@ -3,7 +3,7 @@
   diff = auto
   interactive = auto
   status = auto
-  ui = auto
+	ui = auto
 
 [color "branch"]
   current = green
@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = antoinecquellier@gmail.com
+	email = antoinecuquellier@gmail.com
 	name = antoinequellier
